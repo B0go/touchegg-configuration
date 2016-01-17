@@ -1,2 +1,5 @@
-# ubuntu-touchegg-configuration
-Configuração do touchegg para executar comandos multitouch com até 5 dedos
+#touchegg-configuration
+Touchegg configuration to run multitouch gestures up to five fingers!
+
+[Touchegg Github Repo](https://github.com/JoseExposito/touchegg)
+
