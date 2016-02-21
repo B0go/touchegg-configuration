@@ -19,15 +19,20 @@ Execute the installation script </br>
 
 #Gestures
 
+### Two fingers
 * Two fingers tap: right click
 * Two fingers drag in all directions: scroll
+###Three fingers
 * Three fingers tap: middle click
 * Three fingers drag up: restore window
 * Three fingers drag down: minimize window
+###Four fingers
 * Four fingers drag up: switch to higher workspace
 * Four fingers drag down: switch to lower workspace
+* Four fingers tap: show all windows in the workspace
 * Four fingers drag left: switch tab to right
 * Four fingers drag right: switch tab to left
+###Five fingers
 * Five fingers tap: close window
 
 Feel free to open a pull request with useful gestures!
