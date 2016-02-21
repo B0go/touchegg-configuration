@@ -12,6 +12,8 @@ cd touchegg-configuration
 sudo chmod +x install.sh
 ```
 
+WARNING: The system will reboot after the installations is finished. Save everything before execution! </br>
+
 Execute the installation script </br>
 `./install.sh`
 
