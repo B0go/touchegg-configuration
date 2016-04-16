@@ -19,17 +19,6 @@ Execute the installation script </br>
 
 #Gestures
 
-### Two fingers
-
-* Tap: right click
-* Drag in all directions: scroll
-
-###Three fingers
-
-* Tap: middle click
-* Drag up: restore window
-* Drag down: minimize window
-
 ###Four fingers
 
 * Tap: show all windows in the workspace
