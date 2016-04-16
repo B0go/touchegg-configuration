@@ -16,6 +16,3 @@ cp ./touchegg.conf ~/.config/touchegg/
 cat <<EOF > ~/.xprofile
 touchegg &
 EOF
-
-#reboots
-reboot
