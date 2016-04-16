@@ -12,11 +12,8 @@ apt-get autoremove
 #copy touchegg configuration to default location
 cp ./touchegg.conf ~/.config/touchegg/
 
-#creates .xprofile on ~/ to disable synaptics 3 fingers and run touchegg on session startup
+#creates .xprofile on ~/ to start touchegg on session startup
 cat <<EOF > ~/.xprofile
-synclient ClickFinger2=0 & synclient TapButton2=0
-synclient ClickFinger3=0 & synclient TapButton3=0
-
 touchegg &
 EOF
 
