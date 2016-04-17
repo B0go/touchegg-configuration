@@ -1,25 +1,33 @@
-#Touchegg Configuration
+# Touchegg Configuration
+
 Touchegg configuration to run multitouch gestures up to five fingers!
 
-#Installation
+# Installation
 
-Clone the repository on your local machine: </br>
-`git clone git@github.com:VictorBogo/touchegg-configuration`
+Clone the repository on your local machine:
 
-Cd into it and give execution permission to install.sh </br>
+```console
+git clone https://github.com/VictorBogo/touchegg-configuration
 ```
+
+`cd` into it and give execution permission to `install.sh`:
+
+```console
 cd touchegg-configuration
-sudo chmod +x install.sh
+chmod +x install.sh
 ```
 
-WARNING: Reboot needed
+**WARNING**: Reboot needed
 
-Execute the installation script </br>
-`./install.sh`
+Execute the installation script:
 
-#Gestures
+```console
+./install.sh
+```
 
-###Four fingers
+# Gestures
+
+### Four fingers
 
 * Tap: show all windows in the workspace
 * Drag up: switch to higher workspace
